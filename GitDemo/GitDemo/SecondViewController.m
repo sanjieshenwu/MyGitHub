@@ -6,9 +6,9 @@
 //  Copyright © 2015年 zyl. All rights reserved.
 //
 
-#import "FirstViewController.h"
+#import "SecondViewController.h"
 
-@implementation FirstViewController
+@implementation SecondViewController
 
 
 
