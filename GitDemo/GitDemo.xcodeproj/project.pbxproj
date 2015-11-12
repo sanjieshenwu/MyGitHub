@@ -17,6 +17,7 @@
 		D0F1DF8F1BF4981E00B240E9 /* GitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0F1DF8E1BF4981E00B240E9 /* GitDemoUITests.m */; };
 		D0F1DFA11BF499DA00B240E9 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0F1DFA01BF499DA00B240E9 /* SecondViewController.m */; };
 		D0F291411BF49E1B00370E10 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0F291401BF49E1B00370E10 /* FirstViewController.m */; };
+		D0F291441BF49E8000370E10 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0F291431BF49E8000370E10 /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		D0F1DFA01BF499DA00B240E9 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		D0F2913F1BF49E1B00370E10 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		D0F291401BF49E1B00370E10 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		D0F291421BF49E8000370E10 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		D0F291431BF49E8000370E10 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				D0F291401BF49E1B00370E10 /* FirstViewController.m */,
 				D0F1DF9F1BF499DA00B240E9 /* SecondViewController.h */,
 				D0F1DFA01BF499DA00B240E9 /* SecondViewController.m */,
+				D0F291421BF49E8000370E10 /* ThirdViewController.h */,
+				D0F291431BF49E8000370E10 /* ThirdViewController.m */,
 				D0F1DF721BF4981E00B240E9 /* Main.storyboard */,
 				D0F1DF751BF4981E00B240E9 /* Assets.xcassets */,
 				D0F1DF771BF4981E00B240E9 /* LaunchScreen.storyboard */,
@@ -282,6 +287,7 @@
 			files = (
 				D0F1DF711BF4981E00B240E9 /* ViewController.m in Sources */,
 				D0F1DF6E1BF4981E00B240E9 /* AppDelegate.m in Sources */,
+				D0F291441BF49E8000370E10 /* ThirdViewController.m in Sources */,
 				D0F291411BF49E1B00370E10 /* FirstViewController.m in Sources */,
 				D0F1DF6B1BF4981E00B240E9 /* main.m in Sources */,
 				D0F1DFA11BF499DA00B240E9 /* SecondViewController.m in Sources */,
