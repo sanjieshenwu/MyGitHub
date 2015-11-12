@@ -6,8 +6,8 @@
 //  Copyright © 2015年 zyl. All rights reserved.
 //
 
-#import "ThirdViewController.h"
+#import "FourViewController.h"
 
-@implementation ThirdViewController
+@implementation FourViewController
 
 @end

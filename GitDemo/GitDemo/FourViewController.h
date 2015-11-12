@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ThirdViewController : UIViewController
+@interface FourViewController : UIViewController
 
 @property (nonatomic, copy ) NSString *name;
 
